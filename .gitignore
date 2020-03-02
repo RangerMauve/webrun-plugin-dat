@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# CURSE YOU package-lock! It's great for applications, but sucks for module authors. :'(
+package-lock.json

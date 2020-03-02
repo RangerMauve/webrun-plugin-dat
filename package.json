@@ -1,0 +1,29 @@
+{
+  "name": "webrun-plugin-dat",
+  "version": "1.0.0",
+  "description": "A plugin for webrun that enables support for the Dat protocol.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/webrun-plugin-dat.git"
+  },
+  "keywords": [
+    "webrun",
+    "plugin",
+    "dat",
+    "p2p"
+  ],
+  "author": "rangermauve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/webrun-plugin-dat/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/webrun-plugin-dat#readme",
+  "dependencies": {
+    "dat-peers": "^2.0.0",
+    "dat-sdk": "^1.0.3"
+  }
+}
